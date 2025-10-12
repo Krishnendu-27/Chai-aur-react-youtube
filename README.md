@@ -14,41 +14,41 @@ This YouTube series is hosted by **Chai aur Code**, a popular channel by Hitesh 
 
 Here’s the list of videos in the series:
 
-1. React JS Roadmap  
-2. Create React Projects  
-3. Understand the React Flow and Structure  
-4. Create Your Own React Library and JSX  
-5. Why You Need Hooks + Project  
-6. Virtual DOM, Fiber, and Reconciliation  
-7. Tailwind and Props in ReactJS  
-8. A React Interview Question on Counter  
-9. Building a React Project: `bgChanger`  
-10. `useEffect`, `useRef`, and `useCallback` with Project  
-11. Custom Hooks + Currency Project  
-12. React Router Crash Course  
-13. Context API Crash Course with 2 Projects  
-14. Context API with Local Storage + Project  
-15. Redux Toolkit Crash Course  
-16. Your Choice for Mega Project in React  
-17. Our Mega Project in React (The Hard Way)  
-18. Appwrite Backend for React Project  
-19. ENV and Appwrite Configuration  
-20. Build Authentication with Appwrite  
-21. Appwrite DB, File Upload, Custom Queries  
-22. Configure Redux Toolkit in Big Projects  
-23. Production Grade React Components  
-24. React Hook Form in Production  
-25. Adding Form and Slug Values  
-26. Building Pages  
-27. CORS and Debugging  
-28. Deploying React App to Production  
-29. React Assignments  
-30. React Series Ends Here  
-31. Connecting Frontend & Backend (Fullstack Proxy & CORS)  
-32. You Don’t Need State for This (Interview Q)  
-33. Datatype Skills for React Interviews  
-34. Handle APIs like a Pro (Axios, Race Conditions, Custom Query)  
-35. A Common Production Mistake in React
+- [ ] React JS Roadmap  
+- [ ] Create React Projects  
+- [ ] Understand the React Flow and Structure  
+- [ ] Create Your Own React Library and JSX  
+- [ ] Why You Need Hooks + Project  
+- [ ] Virtual DOM, Fiber, and Reconciliation  
+- [ ] Tailwind and Props in ReactJS  
+- [ ] A React Interview Question on Counter  
+- [ ] Building a React Project: `bgChanger`  
+- [ ] `useEffect`, `useRef`, and `useCallback` with Project  
+- [ ] Custom Hooks + Currency Project  
+- [ ] React Router Crash Course  
+- [ ] Context API Crash Course with 2 Projects  
+- [ ] Context API with Local Storage + Project  
+- [ ] Redux Toolkit Crash Course  
+- [ ] Your Choice for Mega Project in React  
+- [ ] Our Mega Project in React (The Hard Way)  
+- [ ] Appwrite Backend for React Project  
+- [ ] ENV and Appwrite Configuration  
+- [ ] Build Authentication with Appwrite  
+- [ ] Appwrite DB, File Upload, Custom Queries  
+- [ ] Configure Redux Toolkit in Big Projects  
+- [ ] Production Grade React Components  
+- [ ] React Hook Form in Production  
+- [ ] Adding Form and Slug Values  
+- [ ] Building Pages  
+- [ ] CORS and Debugging  
+- [ ] Deploying React App to Production  
+- [ ] React Assignments  
+- [ ] React Series Ends Here  
+- [ ] Connecting Frontend & Backend (Fullstack Proxy & CORS)  
+- [ ] You Don’t Need State for This (Interview Q)  
+- [ ] Datatype Skills for React Interviews  
+- [ ] Handle APIs like a Pro (Axios, Race Conditions, Custom Query)  
+- [ ] A Common Production Mistake in React
 
 ---
 
