@@ -73,6 +73,21 @@ export default Counter;
 - When you click **Remove**, count decrements — but not below 0.
 - The state updates and React automatically refreshes the UI everywhere that uses the value.
 - You should **always use React state** (`useState`) to manage values shown in your component.
+- its setcounter send vaue in batches. we have a callback in setcounter its store last updateed data.
+
+```jsx
+function handleAdd() {
+  if (count < 20) {
+    setCount(count + 1);
+    setCount(count + 1);
+    setCount(count + 1);
+    setCount(count + 1);
+    // fo this kind of situation we get only 1 updation mens if current value is 1 then its result will be 2
+  }
+  // doing same thing with increamnt we have to do
+  setCount((count1) => count1 + 1);
+}
+```
 
 ---
 

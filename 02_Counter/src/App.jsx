@@ -9,7 +9,9 @@ function App() {
     if (count >= 20) {
       return;
     } else {
-      setCount(count + 1);
+      // setCount(count + 1);
+      setCount((count1) => count1 + 1);
+      setCount((count1) => count1 + 1);
     }
   }
   function delteval() {
