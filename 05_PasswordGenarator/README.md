@@ -1,8 +1,3 @@
-Here’s a **cleaned-up and corrected** version of your Markdown file.
-I’ve fixed grammar, spelling, and formatting issues while keeping your tone and structure intact.
-
----
-
 React gives us **memoization** and **hooks** that help reuse logic and methods without refreshing the page.  
 Today, we’ll create a **Password Generator App**!
 
